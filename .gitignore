@@ -1,5 +1,6 @@
 # PyCharm
 /.idea
-
+# IPython
+.ipynb_checkpoints/
 # Теория
 theory/
