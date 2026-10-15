@@ -10,7 +10,8 @@
 
 ❌ 2. «Введение в Spark и Spark RDD»
 - ✔️ лекция «Apache Spark»
-- ❌ лекция «Spark RDD»
+- ✔️ лекция «Spark RDD»
+- ❌ семинар
 - ❌ домашнее задание
 
 ❌ 3. «Spark DataFrame»
