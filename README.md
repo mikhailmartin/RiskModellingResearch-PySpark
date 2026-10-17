@@ -17,7 +17,7 @@
 
 ❌ 3. «Spark DataFrame»
 - ✔️ лекция «Spark DataFrame»
-- ❌ семинар
+- ✔️ семинар
 - ❌ домашка
 
 ❌ 4. «Spark MLlib + разбор кейсов»
